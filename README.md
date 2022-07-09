@@ -1,6 +1,6 @@
 ### Me, in a nutshell 🥜
 
-My name is Yotam and I've been obsessed with [Rust](https://github.com/rust-lang/rust/) since 2018. Low-key open-source contributor, hoping to be become more active.
+My name is Yotam and I've been obsessed with [Rust](https://github.com/rust-lang/rust/) since 2018. Low-key open-source contributor, hoping to become more active.
 
 Here are some PRs I'm pretty proud of:
 - 🦞 https://github.com/rust-lang/rust-analyzer/pull/10180
