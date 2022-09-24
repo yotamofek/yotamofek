@@ -6,6 +6,7 @@ Here are some PRs I'm pretty proud of:
 - 🦞 https://github.com/rust-lang/rust-analyzer/pull/10180
 - 🦞 https://github.com/rust-lang/rust-analyzer/pull/10139
 - 🦞 https://github.com/rust-lang/rust-clippy/pull/7264
+- 🦞 https://github.com/rust-lang/rust-clippy/pull/9496
 - 🦞 https://github.com/hyperium/hyper/pull/1890
 - 🦞 https://github.com/hyperium/tonic/pull/713
 
