@@ -3,6 +3,7 @@
 My name is Yotam and I've been obsessed with [Rust](https://github.com/rust-lang/rust/) since 2018. Low-key open-source contributor, hoping to become more active.
 
 Here are some PRs I'm pretty proud of:
+- 🦞 https://github.com/dimforge/nalgebra/pull/1315
 - 🦞 https://github.com/rust-lang/rust-analyzer/pull/10180
 - 🦞 https://github.com/rust-lang/rust-analyzer/pull/10139
 - 🦞 https://github.com/rust-lang/rust-clippy/pull/7264
